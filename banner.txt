@@ -1,0 +1,7 @@
+ _ __ ___  __ _ _ __ ___  ___ ___
+| '__/ _ \/ _` | '__/ _ \/ __/ __|
+| | |  __/ (_| | | |  __/\__ \__ \
+|_|  \___|\__, |_|  \___||___/___/
+          |___/
+regression benchmark csvs. http://tiny.cc/regress
+"the header is the schema."
